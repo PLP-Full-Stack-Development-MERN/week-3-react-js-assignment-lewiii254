@@ -9,4 +9,11 @@ This project demonstrates the fundamentals of React.js, including components, st
    git clone https://github.com/your-username/react-assignment.git ```
 
 2.    Install dependencies:
+
 ```npm install```
+
+3.Start the development server:
+
+```
+npm start
+```
